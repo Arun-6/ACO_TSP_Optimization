@@ -1,4 +1,3 @@
-# ACO_TSP_Optimization
 # ACO TSP Optimization
 
 This project implements the Ant Colony Optimization (ACO) algorithm to solve the Traveling Salesman Problem (TSP) for various districts in Tamil Nadu, India.
